@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diálogo</title>
+    <script src="https://cdn.jsdelivr.net/npm/phaser@3.55.2/dist/phaser.min.js"></script>
+    <style>
+        body {
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <script type="module">
+        console.log(Phaser.Scene)
+
+        import { CenaTeste } from './main.js';
+
+        // Configurações do jogo
+        const config = {
+            type: Phaser.AUTO,
+            width: 1280,
+            height: 960,
+            scene: [
+                CenaTeste
+            ]
+        };
+
+        // Instanciar o jogo
+        const game = new Phaser.Game(config);
+    </script>
+</body>
+
+</html>

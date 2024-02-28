@@ -1,0 +1,85 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "meta.tmx",
+    "expandedProjectPaths": [
+        "conjunto de blocos",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Todos os Ficheiros (*)",
+    "fileStates": {
+        "Interiors_free_16x16.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1.5
+        },
+        "conjunto de blocos/Interiors_free_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "conjunto de blocos/Interiors_free_32x32.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "conjunto de blocos/Interiors_free_48x48.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "conjunto de blocos/MainTileMap.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "conjunto de blocos/OfficeInterior.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "conjunto de blocos/Tilemap.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "conjunto de blocos/japaneseCityFree.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1.5
+        },
+        "meta.tmx": {
+            "expandedGroupLayers": [
+                8
+            ],
+            "scale": 0.85,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 652.9411764705883,
+                "y": 482.94117647058823
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/Inteli/Documents/tiled/comprados/Modern_Interiors_Free_v2.2/Modern tiles_Free/Interiors_free/32x32",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "meta.tmx",
+        "conjunto de blocos/OfficeInterior.tsx",
+        "conjunto de blocos/japaneseCityFree.tsx",
+        "conjunto de blocos/Interiors_free_32x32.tsx"
+    ],
+    "project": "meta.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "conjunto de blocos/Interiors_free_32x32.tsx",
+        "conjunto de blocos/japaneseCityFree.tsx",
+        "conjunto de blocos/OfficeInterior.tsx",
+        "meta.tmx",
+        "conjunto de blocos/Interiors_free_48x48.tsx",
+        "conjunto de blocos/Interiors_free_16x16.tsx",
+        "conjunto de blocos/Tilemap.tsx",
+        "conjunto de blocos/MainTileMap.tsx",
+        "Interiors_free_16x16.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}

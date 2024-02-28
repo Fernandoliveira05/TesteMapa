@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "phaser-tiled-json-external-loader": "^0.1.1"
+  }
+}
